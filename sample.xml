@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<SampleProductResponse>
+
+<ApplicationArea>
+
+<ApplicationIdentifier>testApp</ApplicationIdentifier>
+
+<RequestCreationDateTime>2010-04-23</RequestCreationDateTime>
+
+<UniqueReferenceIdentifier>123456</UniqueReferenceIdentifier>
+
+</ApplicationArea>
+
+<DataArea>
+
+<StatusInformation>
+
+<Status>13646</Status>
+
+<Description>SUCCESS</Description>
+
+</StatusInformation>
+
+<SubjectInformation>
+
+<BusinessNumber>999999999</BusinessNumber>
+
+<CountryCode>528</CountryCode>
+
+<BusinessName>Loonbedrijf Tolsma</BusinessName>
+
+<BusinessAddress>
+
+<AddressLines type="RegisteredAddress">
+
+<AddressLine>Wommelserweg 71 A</AddressLine>
+
+</AddressLines>
+
+<PostalTown>Tzum</PostalTown>
+
+<County>Friesland</County>
+
+<PostCode>8804 NM</PostCode>
+
+<CountryCode>528</CountryCode>
+
+</BusinessAddress>
+
+<BusinessAddress type="MailingAddress">
+
+<AddressLines>
+
+<AddressLine>Wommelserweg 42</AddressLine>
+
+</AddressLines>
+
+<PostalTown>Tzum</PostalTown>
+
+<County>Friesland</County>
+
+<PostCode>8804 NL</PostCode>
+
+<CountryCode>528</CountryCode>
+
+</BusinessAddress>
+
+<TelephoneNumbers>
+
+<TelephoneNumber>+31 06-20419375</TelephoneNumber>
+
+</TelephoneNumbers>
+
+<WebAddress>www.testabcd.nl</WebAddress>
+
+<EmailAddress>testabcd@xyz.com</EmailAddress>
+
+<PrimaryLineofBusinessSIC>986</PrimaryLineofBusinessSIC>
+
+<PrimaryLineofBusinessDescription></PrimaryLineofBusinessDescription>
+</SubjectInformation>
+
+</DataArea>
+</SampleProductResponse>
